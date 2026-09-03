@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hormozi Offers"
+  short_description: "Build complete Grand Slam Offers step by step"
+  default_prompt: "Use $hormozi-offers to interview me and build a complete Grand Slam Offer for my business."
