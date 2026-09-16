@@ -2,6 +2,8 @@
 
 Use naming to make the right buyer recognize the offer, outcome, timing, and format. Naming is the wrapper, not the core value.
 
+Book basis: chapter 16, PDF pp. 170–180; MAGIC diagram p. 173. Read [knowledge-naming-execution.md](knowledge-naming-execution.md) for explanation, source nuances and examples. See [book-map.md](book-map.md) for citation conventions. The scoring rubric is an implementation aid. In Russian, preserve each component's purpose rather than English syntax or forced rhyme.
+
 ## Contents
 
 1. Build with MAGIC
@@ -39,7 +41,7 @@ Name a recognizable outcome, milestone, relief, or identity change. Avoid unsupp
 
 ### Interval
 
-Use the program duration, onboarding time, first milestone, event length, or campaign period. Do not pair a quantified result and deadline when it implies a guarantee the business cannot support or advertise legally.
+Use the program duration, onboarding time, first milestone, event length, or campaign period. Do not pair a quantified result and deadline when it implies a guarantee the business cannot support or advertise legally. Removing a number does not automatically remove an implied outcome claim.
 
 ### Container
 
@@ -49,7 +51,7 @@ Choose a word that fits the delivery. Do not call a simple consultation an accel
 
 Create a word bank for each component, then combine deliberately.
 
-Generate at least:
+Generate a useful range for the request; for a broad naming exercise, consider:
 
 - Five clear and literal names.
 - Five premium or authority-oriented names.
