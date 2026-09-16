@@ -7,6 +7,8 @@ Use scarcity and urgency only after the core offer is strong.
 
 Both can increase action, but neither can create durable demand for a weak offer.
 
+Book basis: chapters 11–13, PDF pp. 120–144. Read [knowledge-demand.md](knowledge-demand.md) for explanation, source nuances and examples. See [book-map.md](book-map.md) for citation conventions. The broad scarcity families are limited seats/slots, limited bonuses and never-again availability; the table below expands their practical implementations.
+
 ## Contents
 
 1. Select scarcity
