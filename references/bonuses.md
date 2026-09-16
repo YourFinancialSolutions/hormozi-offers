@@ -2,6 +2,8 @@
 
 Use bonuses to make valuable components visible, resolve objections, and widen the value-price gap without discounting the core offer.
 
+Book basis: chapter 14, PDF pp. 145–153. Read [knowledge-bonuses.md](knowledge-bonuses.md) for explanation, source nuances and examples. See [book-map.md](book-map.md) for citation conventions. Distinguish presentation labels from fulfillment dependencies.
+
 ## Contents
 
 1. Decide core versus bonus
@@ -14,7 +16,7 @@ Use bonuses to make valuable components visible, resolve objections, and widen t
 
 ## 1. Decide core versus bonus
 
-Keep a component in the core offer when the primary promise cannot be delivered reliably without it.
+Keep a component reliably included when the primary promise cannot be delivered without it. It may be highlighted separately in presentation, as in the book, but do not make it genuinely optional or withdraw it while keeping the same promise.
 
 Use a component as a bonus when it:
 
@@ -23,7 +25,7 @@ Use a component as a bonus when it:
 - Creates a noticeable "wow" moment.
 - Can stand alone conceptually.
 - Increases speed, certainty, or ease.
-- Is valuable but not required for the core promise.
+- Is valuable and distinct; if also required for the core promise, keep that fulfillment dependency explicit.
 
 Do not label essential service as optional merely to inflate the bonus stack.
 
@@ -51,6 +53,7 @@ For every bonus, define:
 | Objection or next problem | State exactly why this bonus exists. |
 | What it is | Describe the format and contents plainly. |
 | How it is used | Show when and how the buyer applies it. |
+| Origin | Explain a real discovery, recurring problem, or creation effort; do not invent a backstory. |
 | Value lever | Identify whether it improves belief, speed, ease, or outcome. |
 | Proof | Provide relevant evidence, demonstration, or rationale. |
 | Expected benefit | Describe the support it provides without inflating the claim. |
@@ -74,7 +77,7 @@ Do not invent inflated "total values." Explain the basis. If no credible monetar
 
 ## 5. Present bonuses
 
-For a public or one-to-many presentation:
+For a public or one-to-many presentation, use this implementation structure; the book explicitly leaves full group-selling instruction outside its scope:
 
 1. Establish the core offer and price.
 2. Present bonuses one at a time.
