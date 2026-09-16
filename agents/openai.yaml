@@ -1,4 +1,14 @@
 interface:
-  display_name: "Hormozi Offers"
-  short_description: "Build complete Grand Slam Offers step by step"
-  default_prompt: "Use $hormozi-offers to interview me and build a complete Grand Slam Offer for my business."
+  display_name: Hormozi Offers
+  short_description: Build offers with book knowledge, examples, and source pages
+  default_prompt: Use $hormozi-offers to build my offer step by step, explaining relevant
+    book principles and examples as we go.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
