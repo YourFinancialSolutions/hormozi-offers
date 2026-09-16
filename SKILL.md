@@ -1,6 +1,6 @@
 ---
 name: hormozi-offers
-description: Build, audit, differentiate, price, package, enhance, name, and test complete business offers using the full working methodology inspired by Alex Hormozi's $100M Offers. Use when a user needs a Grand Slam Offer, market or niche assessment, premium-pricing strategy, Value Equation analysis, problem-solution map, delivery-vehicle design, trim-and-stack packaging, bonuses, guarantees, scarcity, urgency, offer naming, an offer scorecard, or a step-by-step offer-building interview.
+description: Build, audit, price, package, enhance, and test business offers using Alex Hormozi's $100M Offers methodology and a source-mapped knowledge base. Use for Grand Slam Offers, guided offer-building, markets, Value Equation, Trim & Stack, bonuses, guarantees, scarcity, urgency, MAGIC naming, or explanations of the book with page references and worked examples.
 ---
 
 # Hormozi Offers
@@ -17,20 +17,33 @@ Identify the mode from the request. Ask when it changes the work materially.
 - **Enhancement:** Work only on pricing, value, packaging, bonuses, guarantee, scarcity, urgency, or naming.
 - **Comparison:** Build or compare multiple offer concepts using the same evidence and scorecard.
 
-For a full build or audit, read every reference. For a narrow enhancement, read only the references routed below.
+- **Explain from the book / Объясни по книге:** Explain a concept, chapter, example, or choice with source pages, reasoning, relevant nuances, and clearly separated implementation advice. Do not require a business interview for a conceptual question.
+- **Apply to my business / Примени к моему бизнесу:** Combine relevant book knowledge with the user's facts. Choose full build, enhancement, comparison, or audit according to scope, and explain why the design fits this business.
+
+Start source-based work with [book-map.md](references/book-map.md). For a full build, load each stage's procedure and knowledge when you reach that stage; do not preload the whole library during the first interview. For an audit, examine all commercial dimensions and read the modules needed to support the diagnosis. For a narrow question, read only the matching knowledge/procedure and relevant example.
+
+## Use the knowledge base
+
+- The source is the user-supplied 189-page PDF. Citations use one-based **PDF page positions**, not printed edition page numbers. Follow [book-map.md](references/book-map.md) for source identity, chapter coverage, concept lookup, and known corrections.
+- Distinguish **Book** (paraphrased source), **Implementation** (added worksheets, scores, rules and calculations), and **Adaptation** (original hypothetical application). The 100-point audit and numerical gate thresholds are not author-published scales.
+- Use [book-examples.md](references/book-examples.md) for 16 source-linked example analyses. Identify whether each is an author report, illustration, or thought experiment; do not treat reported results as forecasts.
+- Use [worked-offers.md](references/worked-offers.md) for complete original practice cases and a reusable worksheet. Their company capabilities, prices and results are hypothetical, including examples resembling the user's businesses.
+- Normal use works from bundled notes without reopening the PDF. For exact quotations or uncaptured details, consult the actual source when available; otherwise state what cannot be verified. Do not guess page references or reconstruct quotations.
+- When explaining a decision, connect the source principle to business facts, compare alternatives, choose an option and state what evidence could change it. Add source pages to explanation/audit rationale where useful; keep internal provenance out of customer-facing sales copy.
+- For a guided build, preserve the buyer, current design, evidence, assumptions, completed stages and next decision across turns. Read further modules as needed and resume instead of restarting the interview.
 
 ## Route to the references
 
-| Need | Read |
-|---|---|
-| Market, niche, commoditization, price, margin, or category-of-one positioning | [market-pricing.md](references/market-pricing.md) |
-| Dream outcome, likelihood, speed, effort, proof, or perceived value | [value-equation.md](references/value-equation.md) |
-| Problems, solutions, divergent thinking, delivery vehicles, Trim & Stack, core package | [offer-construction.md](references/offer-construction.md) |
-| Quantity limits, deadlines, cohorts, seasonal campaigns, ethical FOMO | [scarcity-urgency.md](references/scarcity-urgency.md) |
-| Bonus selection, valuation, presentation, or partner bonuses | [bonuses.md](references/bonuses.md) |
-| Refund, conditional, service, performance, anti-guarantee, or risk reversal | [guarantees.md](references/guarantees.md) |
-| Offer, promotion, program, bundle, component, or bonus names | [naming.md](references/naming.md) |
-| Interview questions, worksheets, audit score, final deliverable, or validation plan | [interview-output.md](references/interview-output.md) |
+| Need | Procedure | Book knowledge and reasoning |
+|---|---|---|
+| Market, niche, commoditization, price, margin, category-of-one | [market-pricing.md](references/market-pricing.md) | [knowledge-market-pricing.md](references/knowledge-market-pricing.md) |
+| Dream outcome, likelihood, speed, effort, proof | [value-equation.md](references/value-equation.md) | [knowledge-value.md](references/knowledge-value.md) |
+| Problems, solutions, divergence, delivery vehicles, Trim & Stack | [offer-construction.md](references/offer-construction.md) | [knowledge-construction.md](references/knowledge-construction.md) |
+| Demand, limits, deadlines, cohorts, seasonal campaigns | [scarcity-urgency.md](references/scarcity-urgency.md) | [knowledge-demand.md](references/knowledge-demand.md) |
+| Bonus selection, valuation, presentation, partners | [bonuses.md](references/bonuses.md) | [knowledge-bonuses.md](references/knowledge-bonuses.md) |
+| Refund, service, conditional, performance, anti-guarantee | [guarantees.md](references/guarantees.md) | [knowledge-guarantees.md](references/knowledge-guarantees.md) |
+| Names, MAGIC, offer fatigue, refreshing creative | [naming.md](references/naming.md) | [knowledge-naming-execution.md](references/knowledge-naming-execution.md) |
+| Interview, worksheets, audit, validation, learning modes | [interview-output.md](references/interview-output.md) | [knowledge-naming-execution.md](references/knowledge-naming-execution.md) |
 
 ## Run the full build in order
 
@@ -129,4 +142,6 @@ Use the user's language. Separate facts, assumptions, recommendations, and items
 - Prefer one recommended offer over an unranked list of possibilities.
 - Explain why each component exists and which buyer obstacle it resolves.
 - Optimize customer value and business profit together.
+- Distinguish revenue, cash collection, gross profit, contribution and lifetime cohort economics. Do not turn illustrative ratios or the Value Equation into financial forecasts; consult source corrections when using book numbers.
+- Keep fulfillment dependencies separate from presentation labels. A component emphasized as a bonus can remain essential and included; do not remove required support while keeping the same primary promise.
 - Use `$hormozi-leads` only after a viable offer exists when the user asks for customer acquisition.
