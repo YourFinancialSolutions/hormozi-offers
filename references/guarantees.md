@@ -2,6 +2,8 @@
 
 Use guarantees to reduce the buyer's risk without creating an unsustainable liability. Spend substantial design effort here; risk often remains the final objection after value is established.
 
+Book basis: chapter 15, PDF pp. 154–169. Read [knowledge-guarantees.md](knowledge-guarantees.md) for explanation, source nuances and examples. See [book-map.md](book-map.md) for citation conventions. The scorecard below is an implementation tool, not the author's scale.
+
 ## Contents
 
 1. Map buyer risk
@@ -124,7 +126,9 @@ Compare current and proposed scenarios:
 
 `Expected retained customers = purchases × (1 - refund or remedy rate)`
 
-`Expected contribution = collected revenue - direct fulfillment cost - acquisition cost - expected refund/remedy cost`
+`Expected contribution = earned revenue - direct fulfillment cost - acquisition cost - expected refund/remedy cost`
+
+Use a consistent period and revenue/cost basis. If revenue is already net of refunds, subtract only additional remedies, not refunds a second time. Include fulfillment consumed by refunded customers. For liquidity, separately model timed cash receipts/outlays. Continuing free service preserves upfront receipts but can create substantial labor and capacity liability.
 
 Model:
 
@@ -154,7 +158,7 @@ Avoid stacks that contradict each other or make administration unclear.
 
 Never:
 
-- Guarantee outcomes the business cannot control.
+- State uncertain outcomes as certain. A conditional outcome remedy transfers specified risk; choose an outcome the parties can meaningfully influence and measure, without pretending the guarantee proves success.
 - Hide conditions or make the claim process unreasonably difficult.
 - Call ordinary cancellation rights a special guarantee.
 - Use an anti-guarantee with a fabricated justification.
