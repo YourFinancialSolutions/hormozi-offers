@@ -2,6 +2,8 @@
 
 Use this reference before building deliverables. A strong offer cannot reliably rescue a structurally bad market.
 
+Book basis: chapters 2–5, PDF pp. 23–68. Read [knowledge-market-pricing.md](knowledge-market-pricing.md) for explanation, source nuances and examples. See [book-map.md](book-map.md) for citation conventions. Scores and numerical thresholds below are implementation heuristics, not scales published in the book.
+
 ## Contents
 
 1. Define the offer and growth objective
@@ -22,7 +24,9 @@ Keep these distinct:
 
 Growth ultimately comes from more customers and/or more value per customer. For offer work, track:
 
-`Monthly gross profit from new customers = new customers × lifetime gross profit per customer`
+`Expected lifetime gross profit of an acquisition cohort = customers acquired in that cohort × expected lifetime gross profit per customer`
+
+If the cohort is customers acquired this month, this is still lifetime cohort economics, not this month's earned profit or collected cash. Model monthly collections and delivery costs separately. The book's LTV is gross-profit-based; do not mix it with revenue-based customer lifetime value.
 
 Use gross profit rather than revenue when comparing acquisition capacity. Do not invent retention, margin, or acquisition figures.
 
@@ -116,7 +120,8 @@ At minimum, calculate or mark unknown:
 | Price collected | Cash and timing of collection. |
 | Direct fulfillment cost | Incremental labor, materials, software, shipping, partner cost. |
 | Expected remedy cost | Refunds, free extensions, credits, or guarantee payouts. |
-| Gross profit | Price minus direct fulfillment and expected remedy cost. |
+| Gross profit | Revenue minus direct fulfillment cost; state treatment of refunds explicitly. |
+| Contribution after remedies/acquisition | Gross profit minus incremental remedy and acquisition costs not already deducted. |
 | Capacity | Customers deliverable per week or month at promised quality. |
 | Allowable acquisition cost | Maximum sustainable cost to acquire a customer. |
 | Payback period | Time until acquisition and fulfillment cash is recovered. |
