@@ -2,6 +2,8 @@
 
 Use this reference to gather facts, preserve assumptions, score offers, and produce a complete deliverable.
 
+Book basis: chapter recap, PDF pp. 186–187; conceptual foundations throughout the book. Read [knowledge-naming-execution.md](knowledge-naming-execution.md) for explanation, source nuances and examples. See [book-map.md](book-map.md) for citation conventions. The interview rounds, worksheets, 100-point audit, validation gates and stop criteria below are implementation tools created for this skill, not procedures copied from the book.
+
 ## Contents
 
 1. Interview protocol
@@ -84,7 +86,7 @@ Use 1-10; for speed and ease, a higher score is better.
 
 ### Final stack
 
-| Component | Core/support/bonus/tier | Obstacle solved | Delivery | Proof | Value basis | Cost/capacity |
+| Component | Core/support/bonus/tier and required-for-promise? | Obstacle solved | Delivery | Proof | Value basis | Cost/capacity |
 |---|---|---|---|---|---|---|
 
 ### Enhancements
@@ -99,7 +101,7 @@ Use 1-10; for speed and ease, a higher score is better.
 
 ### Economics
 
-| Price | Direct cost | Expected remedy cost | Gross profit | Capacity | Allowable CAC | Payback |
+| Price and collection timing | Direct cost | Expected remedy cost | Gross profit / contribution basis | Capacity | Allowable CAC | Payback |
 |---:|---:|---:|---:|---:|---:|---:|
 
 ## 4. Offer audit score
@@ -126,6 +128,10 @@ For each category, provide evidence, lost points, and the next improvement. Inte
 Do not use the total to hide a fatal flaw. A weak market, impossible promise, negative economics, or unlawful claim overrides the numeric score.
 
 ## 5. Final deliverable
+
+For an explanation from the book, answer the requested concept with source pages, mechanism, relevant example, important nuance, and a clearly labeled application if useful. Use [book-examples.md](book-examples.md) and [worked-offers.md](worked-offers.md) as needed. Do not force the full commercial document below onto a learning question.
+
+For a practical deliverable, include a short source/decision rationale when requested or useful. Keep author concepts, implementation additions and hypothetical assumptions distinguishable. Do not put citations or internal methodology labels into customer-facing sales copy.
 
 For a full build, provide sections in this order:
 
