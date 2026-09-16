@@ -4,7 +4,11 @@ Use the Value Equation to engineer real and perceived value:
 
 `Perceived value rises as desired outcome and belief in achievement rise, and as perceived delay and effort/sacrifice fall.`
 
+The book's visual relationship is `(Dream Outcome × Perceived Likelihood of Achievement) / (Time Delay × Effort & Sacrifice)`. Increase numerator factors and reduce denominator factors. Division by zero is undefined; the source's limiting metaphor does not yield literal monetary value.
+
 Treat the relationship as directional, not as a precise financial formula.
+
+Book basis: chapter 6, PDF pp. 72–86; diagram p. 74. Read [knowledge-value.md](knowledge-value.md) for explanation, source nuances and examples. See [book-map.md](book-map.md) for citation conventions.
 
 ## Contents
 
@@ -108,7 +112,7 @@ Use psychological solutions only when truthful: visibility, progress markers, or
 
 ## 6. Value audit
 
-Score each lever 1-10 with evidence:
+Score each lever 1-10 with evidence. This is an implementation scorecard, not a measurement scale published in the book; do not insert these scores into a price formula:
 
 | Lever | Score question |
 |---|---|
