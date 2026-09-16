@@ -2,6 +2,8 @@
 
 Use this workflow to construct the core offer before adding enhancements.
 
+Book basis: chapters 8–10, PDF pp. 89–116. Read [knowledge-construction.md](knowledge-construction.md) for explanation, source nuances and examples. See [book-map.md](book-map.md) for citation conventions. Core/support/bonus/tier is an implementation classification; retain a separate record of whether each component is necessary for the promise.
+
 ## Contents
 
 1. Use divergent thinking
@@ -155,7 +157,7 @@ Classify every component:
 
 - **Core:** required to deliver the primary promise.
 - **Support:** improves adoption, speed, or certainty.
-- **Bonus:** distinct, useful, and objection-resolving but not required for the primary promise.
+- **Bonus:** a distinct useful component highlighted in presentation. Prefer nonessential additions for time-limited bonuses. If a highlighted component is essential to the primary promise, keep it included and record that dependency; the book also highlights existing bundle components as bonuses.
 - **Upsell or tier:** high-cost or high-access value better sold separately.
 
 ## 8. Balance sales and fulfillment
